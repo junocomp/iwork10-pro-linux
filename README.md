@@ -2,7 +2,7 @@
 
 Tested on Ubuntu 19.10
 
-<p><b>works</b><br>
+<p><b>Works</b><br>
 ꔷScreen rotation (somewhat)<br>
 ꔷIntel graphics acceleration<br>
 ꔷScaling<br>
