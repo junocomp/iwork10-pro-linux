@@ -2,14 +2,14 @@
 
 Tested on Ubuntu 19.10
 
-What works
-ꔷScreen rotation (somewhat)
-ꔷIntel graphics acceleration
-ꔷScaling
-ꔷAudio
-ꔷWifi
+<p>What works<br>
+ꔷScreen rotation (somewhat)<br>
+ꔷIntel graphics acceleration<br>
+ꔷScaling<br>
+ꔷAudio<br>
+ꔷWifi</p>
 
-Doesn't work
-ꔷTouchscreen (not calibrated)
-ꔷFront and back camera
-ꔷThunderbolt 3 video output
+<p>Doesn't work<br>
+ꔷTouchscreen (not calibrated)<br>
+ꔷFront and back camera<br>
+ꔷThunderbolt 3 video output</p>
