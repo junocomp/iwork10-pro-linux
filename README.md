@@ -18,8 +18,11 @@ Tested on Ubuntu 19.10
 <b>Installation</b>
 
 Download and install Ubuntu 19.10
+
 Update all packages
+
 Install extra drivers drivers
+
 sudo apt install intel-opencl-icd preload intel-media-va-driver-non-free linux-tools-generic
 
 Copy 20-intel.conf to /usr/share/X11/xorg.conf.d/ this will help accelerate the Intel Graphics
