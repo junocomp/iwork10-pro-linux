@@ -15,7 +15,7 @@ Tested on Ubuntu 19.10
 ꔷThunderbolt 3 video output</p>
 
 
-Installation
+<b>Installation</b>
 
 Download and install Ubuntu 19.10
 Update all packages
