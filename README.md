@@ -40,6 +40,15 @@ Then execute
 
 This should give you full screen rotation. So far I have not figured out how to add it at startup. Maybe I need to create a systemd service.
 
+<b>Enable HiDPI Fractional Scaling fox x11 and Wayland</b>
+
+<i>X11</i><br>
+`gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"`
+
+<i>Wayland</i><br>
+`gsettings set org.gnome.mutter experimental-features "['x11-randr-fractional-scaling']"`
+
+
 Touchscreen
 -----------
 
