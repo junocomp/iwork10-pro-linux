@@ -49,6 +49,7 @@ Wayland<br>
 `gsettings set org.gnome.mutter experimental-features "['x11-randr-fractional-scaling']"`
 
 <b>GRUB</b>
+
 Add `acpi_osi='Windows 2015' acpi_backlight=vendor video=efifb fbcon=rotate:1` to `GRUB_CMDLINE_LINUX_DEFAULT`
 
 `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_osi='Windows 2015' acpi_backlight=vendor video=efifb fbcon=rotate:1"`
