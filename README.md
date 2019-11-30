@@ -10,7 +10,7 @@ Tested on Ubuntu 19.10
 ꔷAudio<br>
 ꔷWifi</p>
 
-<p><b>Doesn't work</b><br>
+<p><b>Does not work</b><br>
 ꔷTouchscreen (not calibrated)<br>
 ꔷFront and back camera<br>
 ꔷThunderbolt 3 video output</p>
