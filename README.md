@@ -33,8 +33,7 @@ Copy `rotate-screen` to `/usr/bin/`
 
 Then execute 
 
-`rotate-screen&`
-
+`rotate-screen&`<br>
 `exit`
 
 This should give you full screen rotation. So far I have not figured out how to add it at startup. Maybe I need to create a systemd service.
