@@ -23,7 +23,7 @@ Update all packages
 
 <b>Install extra drivers drivers</b>
 
-sudo apt install intel-opencl-icd preload intel-media-va-driver-non-free linux-tools-generic
+`sudo apt install intel-opencl-icd preload intel-media-va-driver-non-free linux-tools-generic`
 
 Copy 20-intel.conf to /usr/share/X11/xorg.conf.d/ this will help accelerate the Intel Graphics
 
