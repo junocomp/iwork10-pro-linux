@@ -42,10 +42,10 @@ This should give you full screen rotation. So far I have not figured out how to 
 
 <b>Enable HiDPI Fractional Scaling fox x11 and Wayland</b>
 
-<i>X11</i><br>
+X11<br>
 `gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"`
 
-<i>Wayland</i><br>
+Wayland<br>
 `gsettings set org.gnome.mutter experimental-features "['x11-randr-fractional-scaling']"`
 
 
