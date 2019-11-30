@@ -1,0 +1,20 @@
+#!/bin/bash
+monitor-sensor | while read line
+do
+if [[ $line =~ .*left.* ]]
+then
+    xrandr -o normal
+fi
+if [[ $line =~ .*right.* ]]
+then
+    xrandr -o inverted
+fi
+if [[ $line =~ .*bottom-up.* ]]
+then
+    xrandr -o right
+fi
+if [[ $line =~ .*normal.* ]]
+then
+    xrandr -o left
+fi
+done
