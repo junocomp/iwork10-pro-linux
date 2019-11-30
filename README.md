@@ -1,4 +1,5 @@
-<b>Ubuntu drivers for iWork10 Pro</b>
+Ubuntu drivers for iWork10 Pro
+------------------------------
 
 Tested on Ubuntu 19.10
 
@@ -15,7 +16,8 @@ Tested on Ubuntu 19.10
 ꔷThunderbolt 3 video output</p>
 
 
-<b>INSTALLATION</b>
+INSTALLATION
+-------------
 
 Download and install Ubuntu 19.10
 
@@ -37,3 +39,8 @@ Then execute
 `exit`
 
 This should give you full screen rotation. So far I have not figured out how to add it at startup. Maybe I need to create a systemd service.
+
+Touchscreen
+-----------
+
+I have extracted SileadTouch.sys from Windows 10, which is the touch driver. There is a tutorial on how to port this to linux using <a href="https://github.com/onitake/gsl-firmware">gsl-firmware</a> and <a href="https://github.com/onitake/gslx680-acpi">gslx680-acpi</a>. I was able to convert and install the driver but it needs to be calibrate and I have not been very success doing it. If anyone knows how to do it, please open an issue and describe how to.
