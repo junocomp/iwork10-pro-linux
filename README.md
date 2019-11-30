@@ -1,4 +1,4 @@
-Ubuntu drivers for iWork10 Pro
+UBUNTU DRIVERS FOR iWORK10 PRO
 ------------------------------
 
 Tested on Ubuntu 19.10
@@ -14,6 +14,14 @@ Tested on Ubuntu 19.10
 ꔷTouchscreen (not calibrated)<br>
 ꔷFront and back camera<br>
 ꔷThunderbolt 3 video output</p>
+
+<b>Model</b>
+
+`i15-TD`<br>
+`i1002SG`<br>
+`64GB Storage`<br>
+`4GB RAM`<br>
+`Intel Atom x5-Z8350`
 
 
 INSTALLATION
