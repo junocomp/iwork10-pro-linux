@@ -15,13 +15,13 @@ Tested on Ubuntu 19.10
 ꔷThunderbolt 3 video output</p>
 
 
-<b>Installation</b>
+<b>INSTALLATION</b>
 
 Download and install Ubuntu 19.10
 
 Update all packages
 
-Install extra drivers drivers
+<b>Install extra drivers drivers</b>
 
 sudo apt install intel-opencl-icd preload intel-media-va-driver-non-free linux-tools-generic
 
