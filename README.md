@@ -1,6 +1,5 @@
 UBUNTU DRIVERS FOR iWORK10 PRO
 ------------------------------
-
 <img src="https://github.com/giovannicaligaris/iwork10-pro-linux/blob/master/iwork10-ubuntu.png?raw=true">
 
 Tested on Ubuntu 19.10
