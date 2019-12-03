@@ -4,16 +4,16 @@ UBUNTU DRIVERS FOR iWORK10 PRO
 Tested on Ubuntu 19.10
 
 <p><b>Works</b><br>
-ꔷScreen rotation (somewhat)<br>
-ꔷIntel graphics acceleration<br>
-ꔷScaling<br>
-ꔷAudio<br>
-ꔷWifi</p>
+•Screen rotation (somewhat)<br>
+•Intel graphics acceleration<br>
+•Scaling<br>
+•Audio<br>
+•Wifi</p>
 
 <p><b>Does not work</b><br>
-ꔷTouchscreen (not calibrated)<br>
-ꔷFront and back camera<br>
-ꔷThunderbolt 3 video output</p>
+•Touchscreen (not calibrated)<br>
+•Front and back camera<br>
+•Thunderbolt 3 video output</p>
 
 <b>Model</b>
 
