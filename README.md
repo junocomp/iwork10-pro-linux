@@ -68,3 +68,9 @@ Touchscreen
 -----------
 
 I have extracted `SileadTouch.sys` from `Windows 10`, which is the touch driver. There is a tutorial on how to port this to linux using <a href="https://github.com/onitake/gsl-firmware">gsl-firmware</a> and <a href="https://github.com/onitake/gslx680-acpi">gslx680-acpi</a>. I was able to convert and install the driver but it needs to be calibrate and I have not been very success doing it. If anyone knows how to do it, please open an issue and describe how to.
+
+
+-----------
+
+
+Juno Computers - <a href="https://junocomputers.com">https://junocomputers.com </a>
